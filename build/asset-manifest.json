@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Satyam52/React-Dashboardstatic/css/main.5190d97b.chunk.css",
+    "main.js": "/Satyam52/React-Dashboardstatic/js/main.0ee29353.chunk.js",
+    "main.js.map": "/Satyam52/React-Dashboardstatic/js/main.0ee29353.chunk.js.map",
+    "runtime-main.js": "/Satyam52/React-Dashboardstatic/js/runtime-main.e15c581b.js",
+    "runtime-main.js.map": "/Satyam52/React-Dashboardstatic/js/runtime-main.e15c581b.js.map",
+    "static/js/2.96cb334c.chunk.js": "/Satyam52/React-Dashboardstatic/js/2.96cb334c.chunk.js",
+    "static/js/2.96cb334c.chunk.js.map": "/Satyam52/React-Dashboardstatic/js/2.96cb334c.chunk.js.map",
+    "index.html": "/Satyam52/React-Dashboardindex.html",
+    "precache-manifest.639fc358850b5459021d8e3a445ff958.js": "/Satyam52/React-Dashboardprecache-manifest.639fc358850b5459021d8e3a445ff958.js",
+    "service-worker.js": "/Satyam52/React-Dashboardservice-worker.js",
+    "static/css/main.5190d97b.chunk.css.map": "/Satyam52/React-Dashboardstatic/css/main.5190d97b.chunk.css.map",
+    "static/js/2.96cb334c.chunk.js.LICENSE.txt": "/Satyam52/React-Dashboardstatic/js/2.96cb334c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e15c581b.js",
+    "static/js/2.96cb334c.chunk.js",
+    "static/css/main.5190d97b.chunk.css",
+    "static/js/main.0ee29353.chunk.js"
+  ]
+}
